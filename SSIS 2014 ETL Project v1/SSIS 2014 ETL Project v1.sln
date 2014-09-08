@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS 2014 ETL Project v1", "SSIS 2014 ETL Project v1\SSIS 2014 ETL Project v1.dtproj", "{6BCA9440-16AA-47FB-A482-C46BE3A2283D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCA9440-16AA-47FB-A482-C46BE3A2283D}.Development|Default.ActiveCfg = Development
+		{6BCA9440-16AA-47FB-A482-C46BE3A2283D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
